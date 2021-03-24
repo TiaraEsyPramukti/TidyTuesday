@@ -1,4 +1,4 @@
-# Tidytuesday---Chopped
+# Tidytuesday
 Data visualization of Chopped, Tidytuesday data project week 35
 
 Code could be found [here](https://github.com/TiaraEsyPramukti/Tidytuesday---Chopped/blob/master/chopped.R)    
